@@ -1,3 +1,5 @@
+// Inserting Comments
+
 public class User
 {
     private double startingMoney;
